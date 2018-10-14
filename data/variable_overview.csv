@@ -1,0 +1,14 @@
+,id,amount_tsh,date_recorded,funder,gps_height,installer,longitude,latitude,wpt_name,num_private,basin,subvillage,region,region_code,district_code,lga,ward,population,public_meeting,recorded_by,scheme_management,scheme_name,permit,construction_year,extraction_type,extraction_type_group,extraction_type_class,management,management_group,payment,payment_type,water_quality,quality_group,quantity,quantity_group,source,source_type,source_class,waterpoint_type,waterpoint_type_group
+count,59400,59400,59400,55765,59400,55745,59400,59400,59400,59400,59400,59029,59400,59400,59400,59400,59400,59400,56066,59400,55523,31234,56344,59400,59400,59400,59400,59400,59400,59400,59400,59400,59400,59400,59400,59400,59400,59400,59400,59400
+unique,,,356,1897,,2145,,,37400,,9,19287,21,,,125,2092,,2,1,12,2696,2,,18,13,7,12,5,7,7,8,6,5,5,10,7,3,7,6
+top,,,3/15/2011,Government Of Tanzania,,DWE,,,none,,Lake Victoria,Madukani,Iringa,,,Njombe,Igosi,,TRUE,GeoData Consultants Ltd,VWC,K,TRUE,,gravity,gravity,gravity,vwc,user-group,never pay,never pay,soft,good,enough,enough,spring,spring,groundwater,communal standpipe,communal standpipe
+freq,,,572,9084,,17402,,,3563,,10248,508,5294,,,2503,307,,51011,59400,36793,682,38852,,26780,26780,26780,40507,52490,25348,25348,50818,50818,33186,33186,17021,17021,45794,28522,34625
+mean,37115.13177,317.6503847,,,668.2972391,,34.07742669,-5.70603266,,0.474141414,,,,15.29700337,5.629747475,,,179.9099832,,,,,,1300.652475,,,,,,,,,,,,,,,,
+std,21453.12837,2997.574558,,,693.1163503,,6.567431846,2.946019081,,12.23622981,,,,17.58740634,9.633648629,,,471.4821757,,,,,,951.6205473,,,,,,,,,,,,,,,,
+min,0,0,,,-90,,0,-11.64944018,,0,,,,1,0,,,0,,,,,,0,,,,,,,,,,,,,,,,
+25%,18519.75,0,,,0,,33.09034738,-8.540621305,,0,,,,5,2,,,0,,,,,,0,,,,,,,,,,,,,,,,
+50%,37061.5,0,,,369,,34.90874343,-5.02159665,,0,,,,12,3,,,25,,,,,,1986,,,,,,,,,,,,,,,,
+75%,55656.5,20,,,1319.25,,37.17838657,-3.32615564,,0,,,,17,5,,,215,,,,,,2004,,,,,,,,,,,,,,,,
+max,74247,350000,,,2770,,40.34519307,-2.00E-08,,1776,,,,99,80,,,30500,,,,,,2013,,,,,,,,,,,,,,,,
+percent missing,0,0,0,6.12,0,6.15,0,0,0,0,0,0.62,0,0,0,0,0,0,5.61,0,6.53,47.42,5.14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+percent zeros,0,70.1,,,34.41,,3.05,0,,98.73,,,,0,0.04,,,35.99,,,,,,34.86,,,,,,,,,,,,,,,,
